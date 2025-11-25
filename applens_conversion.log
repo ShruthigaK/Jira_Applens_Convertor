@@ -1,0 +1,28 @@
+2025-11-25 11:32:38,340 - INFO - Phase 1: Reading input CSV file from C:\Users\2430624\AppData\Local\Temp\tmp4xu392lp.csv
+2025-11-25 11:32:39,128 - INFO - Successfully loaded 147 rows.
+2025-11-25 11:32:39,129 - INFO - Phase 2: Applying transformations...
+2025-11-25 11:32:39,133 - INFO - Phase 3: Validating data...
+2025-11-25 11:32:39,225 - INFO - Validation complete.
+2025-11-25 11:32:39,227 - INFO - Phase 4: Writing output to C:\Users\2430624\AppData\Local\Temp\tmp3fve75qu.xlsx
+2025-11-25 11:32:41,578 - INFO - SUCCESS: Transformation complete.
+2025-11-25 11:44:20,999 - INFO - Phase 1: Reading input CSV file from C:\Users\2430624\AppData\Local\Temp\tmphj5m4bjm.csv
+2025-11-25 11:44:21,758 - INFO - Successfully loaded 147 rows.
+2025-11-25 11:44:21,760 - INFO - Phase 2: Applying transformations...
+2025-11-25 11:44:21,764 - INFO - Phase 3: Validating data...
+2025-11-25 11:44:21,857 - INFO - Validation complete.
+2025-11-25 11:44:21,858 - INFO - Phase 4: Writing output to C:\Users\2430624\AppData\Local\Temp\tmp3u9q4zss.xlsx
+2025-11-25 11:44:24,287 - INFO - SUCCESS: Transformation complete.
+2025-11-25 11:45:04,951 - INFO - Phase 1: Reading input CSV file from C:\Users\2430624\AppData\Local\Temp\tmpsptyfwaf.csv
+2025-11-25 11:45:05,747 - INFO - Successfully loaded 147 rows.
+2025-11-25 11:45:05,748 - INFO - Phase 2: Applying transformations...
+2025-11-25 11:45:05,751 - INFO - Phase 3: Validating data...
+2025-11-25 11:45:05,832 - INFO - Validation complete.
+2025-11-25 11:45:05,834 - INFO - Phase 4: Writing output to C:\Users\2430624\AppData\Local\Temp\tmpru29sef3.xlsx
+2025-11-25 11:45:06,029 - INFO - SUCCESS: Transformation complete.
+2025-11-25 11:59:03,951 - INFO - Phase 1: Reading input CSV file from C:\Users\2430624\AppData\Local\Temp\tmpkbj8gozo.csv
+2025-11-25 11:59:04,747 - INFO - Successfully loaded 147 rows.
+2025-11-25 11:59:04,748 - INFO - Phase 2: Applying transformations...
+2025-11-25 11:59:04,752 - INFO - Phase 3: Validating data...
+2025-11-25 11:59:04,843 - INFO - Validation complete.
+2025-11-25 11:59:04,844 - INFO - Phase 4: Writing output to C:\Users\2430624\AppData\Local\Temp\tmpj16fanpi.xlsx
+2025-11-25 11:59:07,127 - INFO - SUCCESS: Transformation complete.
